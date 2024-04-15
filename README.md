@@ -6,8 +6,9 @@
 
 <p>Este é um projeto criado como parte do desafio proposto pelo Professor Fernando, onde o objetivo era criar um site com um tema livre. Optei por dedicar o site à série de TV "How I Met Your Mother", utilizando a estrutura de tabela para organizar as informações.</p>
 
-<h2> Visão Geral <h2>
-<p>O site tem como objetivo oferecer uma visão geral da série, fornecendo informações sobre os personagens principais, episódios marcantes e curiosidades sobre "How I Met Your Mother". A estrutura de tabela foi escolhida para facilitar a organização e visualização dos dados.</p>
+<h2> :page_facing_up: Visão Geral</h2>
+
+<p> O site tem como objetivo oferecer uma visão geral da série, fornecendo informações sobre os personagens principais, episódios marcantes e curiosidades sobre "How I Met Your Mother". A estrutura de tabela foi escolhida para facilitar a organização e visualização dos dados.</p>
 
 <h2>:white_check_mark: Tecnologias Utilizadas </h2>
 <ul>
