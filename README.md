@@ -16,7 +16,7 @@ O site tem como objetivo oferecer uma visão geral da série, fornecendo informa
 </ul>
 
 <h2>:dart:Projeto </h2>
- <img src="./src/img/site.png">
+ <img src="./src/img/site.jpg">
 
 Você pode conferir o resultado do projeto
  <a href=""> aqui!</a>
