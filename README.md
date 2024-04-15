@@ -20,7 +20,7 @@
  <img src="./src/img/site.jpg">
 
 Você pode conferir o resultado do projeto
- <a href=""> aqui!</a>
+ <a href="https://kathllynsantos.github.io/Site_P11_Kick/"> aqui!</a>
 
  <h2>🛠️ Como Testar</h2>
 <ol>
